@@ -9,7 +9,7 @@ function getNameFromEnv() {
 }
 
 function getNameFromReadLine() {
-    // Write your code hererw
+    // Write your code heredf
     var namecom=require("readline");
     var ipt =namecom.createInterface({
         input:process.stdip,
